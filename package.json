@@ -17,7 +17,7 @@
         "dateformat": "1.0.12",
         "deasync": "^0.1.14",
         "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
-        "cryptonight-hashing": "git://github.com/MoneroOcean/node-cryptonight-hashing.git",
+        "cryptonight-hashing": "git://github.com/kevacoin-project/node-cryptonight-hashing.git",
         "redis": "0.12.1"
     },
     "engines": {
